@@ -1,4 +1,4 @@
-[
+;[
   {
     "question": "Dữ liệu cá nhân nhạy cảm bao gồm những loại nào theo Nghị định 13/2023?",
     "ground_truth": "Theo Điều 2 khoản 4 Nghị định 13/2023, dữ liệu cá nhân nhạy cảm bao gồm: quan điểm chính trị, quan điểm tôn giáo, tình trạng sức khỏe và đời tư được ghi trong hồ sơ bệnh án, thông tin liên quan đến nguồn gốc chủng tộc hoặc nguồn gốc dân tộc, thông tin về đặc điểm di truyền được thừa hưởng hoặc có được của cá nhân, thông tin về thuộc tính vật lý và đặc điểm sinh học đặc trưng của cá nhân (thông tin sinh trắc học), thông tin về đời sống tình dục hoặc xu hướng tình dục của cá nhân, dữ liệu về tội phạm và hành vi phạm tội được thu thập và lưu giữ bởi cơ quan thực thi pháp luật, thông tin khách hàng của tổ chức tín dụng."
