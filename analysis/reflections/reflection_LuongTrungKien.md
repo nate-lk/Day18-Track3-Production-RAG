@@ -5,7 +5,7 @@
 
 ---
 
-## 1. Đóng góp kỹ thuật
+## 1. Đóng góp kỹ thuật.
 
 - **Module đã implement:** `src/m5_enrichment.py`
 - **Các hàm/class chính đã viết:**
@@ -18,7 +18,7 @@
 
 ---
 
-## 2. Kiến thức học được
+## 2. Kiến thức học được.
 
 - **Khái niệm mới nhất:** HyQA (Hypothetical Question Answering) — thay vì chỉ index chunk text, index thêm các câu hỏi mà chunk có thể trả lời. Query của user match với hypothetical questions → bridge vocabulary gap giữa query style (conversational) và document style (formal).
 - **Điều bất ngờ nhất:** Contextual prepend cải thiện reranking score rõ rệt — cross-encoder dễ score hơn khi context chunk rõ ràng "Đây là Điều 9 Nghị định 13/2023 về quyền của chủ thể dữ liệu" thay vì chunk text thuần bắt đầu giữa chừng.
@@ -45,7 +45,7 @@
 
 | Tiêu chí | Tự chấm (1-5) |
 |----------|---------------|
-| Hiểu bài giảng | 4 |
+| Hiểu bài giảng |  |
 | Code quality | 5 |
 | Teamwork | 4 |
 | Problem solving | 5 |
